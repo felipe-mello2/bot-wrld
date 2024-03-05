@@ -1,6 +1,7 @@
 const { Player } = require('discord-player');
 const Genius = require("genius-lyrics");
 const { Client, GatewayIntentBits } = require('discord.js');
+const keep_alive = require('./keep_alive.js')
 
 global.client = new Client({
     intents: [
