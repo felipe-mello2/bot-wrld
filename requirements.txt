@@ -1,0 +1,9 @@
+discord.js
+discord-player.js
+ffmpeg-static
+ms
+node
+npm
+opusscript
+youtube-sr
+ytdl-core
