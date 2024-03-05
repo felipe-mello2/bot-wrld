@@ -7,6 +7,9 @@
     "description": "A complete code to download for a cool Discord music bot.",
     "scripts": {
         "start": "node main.js"
+        "engines": {
+  "node": ">=18.18.0 <19.0.0"
+}
     },
     "dependencies": {
         "@discord-player/extractor": "^4.4.6",
